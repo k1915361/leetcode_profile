@@ -1,2 +1,3 @@
-# leetcode_profile
-My leetcode learning profile.
+# [My leetcode learning profile.](https://leetcode.com/u/k1915361/) (updated 06.07.2024)
+
+Skills: Advanced: `Dynamic Programming x4` `Divide and Conquer x4`  `Backtracking x1` `Trie x1` Intermediate: `Database x51` `Math x23` `Tree x13` `Binary Tree x13` `Hash Table x13` `Depth-First Search x12` `Bit Manipulation x9` `Breadth-First Search x7` Fundamental: `Array x47` `String x21` `Two Pointers x11` `Simulation x8` `Sorting x8` `Linked List x5` `Stack x4` `Matrix x2` problems solved: `Easy 173/808 solved` `Go 56` `MySQL 49` `C 32` `Pandas 15` `C++ 13` `Rust 13` `JavaScript 8` `Python3 6` `PostgreSQL 3` `Java 2`
